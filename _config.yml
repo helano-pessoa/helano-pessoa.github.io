@@ -140,7 +140,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto: hp@alu.ufc.br
+      url: mailto:hp@alu.ufc.br
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
