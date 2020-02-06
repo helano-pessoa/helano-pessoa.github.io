@@ -2,7 +2,7 @@
 title: "CV"
 permalink: /cv/
 header:
-    image: "/images/assets/blue.jpg"
+    image: "/assets/blue.jpg"
 ---
 
 ### Resumo

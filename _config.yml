@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aprendendo..."
   location         : "Fortaleza, Ceará, Brasil"
-  email            : "hp@alu.ufc.br"
+  email            : # "hp@alu.ufc.br"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
