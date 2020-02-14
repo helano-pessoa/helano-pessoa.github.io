@@ -1,9 +1,9 @@
 main:
-  - title: "Operations Research"
+  - title: "Otimização"
     url: /operations-research/
-  - title: "Data Science"
+  - title: "Ciência de Dados"
     url: /data-science/
   - title: "CV"
     url: /cv/
-  - title: "About"
+  - title: "Sobre mim"
     url: /about/
