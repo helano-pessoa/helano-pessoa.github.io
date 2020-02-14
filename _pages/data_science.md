@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Data Science
+layout: pages
+title: Ciência de Dados
 permalink: /data-science/
 author_profile: true
 header:

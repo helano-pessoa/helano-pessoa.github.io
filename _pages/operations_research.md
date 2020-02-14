@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Operations Research
+title: Ciência de Dados
 permalink: /operations-research/
 author_profile: true
 header:
