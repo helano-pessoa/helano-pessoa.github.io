@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: "Sobre mim"
 permalink: /about/
 header:
