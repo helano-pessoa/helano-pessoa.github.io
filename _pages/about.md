@@ -4,7 +4,7 @@ title: "Sobre mim"
 permalink: /about/
 author_profile: true
 header:
-    image: "/assets/images/blue.jpg"
+    #image: "/assets/images/blue.jpg"
 ---
 
 * Estou me preparando para ser um cientista de dados.
