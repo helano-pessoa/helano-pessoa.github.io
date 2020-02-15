@@ -1,9 +1,11 @@
 ---
-layout: posts
+#layout: posts
 title: "Sobre mim"
 permalink: /about/
 header:
     image: "/assets/images/blue.jpg"
 ---
 
-Em breve...
+* Estou me preparando para ser um cientista de dados.
+
+* Atualmente trabalho como voluntário no [OPL](http://www.opl.ufc.br/pt/).
