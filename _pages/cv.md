@@ -2,6 +2,7 @@
 #layout: posts
 title: "CV"
 permalink: /cv/
+author_profile: true
 header:
     image: "/assets/images/blue.jpg"
 ---
