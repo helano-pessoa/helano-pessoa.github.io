@@ -8,7 +8,7 @@ header:
 
 ### Resumo
 
-Experiência de 2 anos no Movimento Empresa Júnior desenvolvendo habilidades de liderança, negociação e gestão de equipe. Sou  administrador de empresas pelo Centro Universitário Unifametro e, atualmente, estou cursando Matemática Industrial na Universidade Federal do Ceará onde realizei atividades de ensino, pesquisa e extensão. Possuo inglês nível intermediário (cursando), conhecimento em softwares (Excel e Power BI) e linguagens de programação (Python).
+Vivência no Movimento Empresa Júnior desenvolvendo habilidades de liderança, negociação e gestão de equipe. Sou  administrador de empresas pelo Centro Universitário Unifametro e, atualmente, estou cursando Matemática Industrial na Universidade Federal do Ceará onde realizei atividades de ensino, pesquisa e extensão. Possuo inglês nível intermediário (cursando), conhecimento em softwares (Excel e Power BI) e linguagens de programação (Python).
 
 ### Formação
 
