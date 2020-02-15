@@ -1,6 +1,6 @@
 ---
-layout: posts
-title: Ciência de Dados
+#layout: posts
+title: Otimização
 permalink: /operations-research/
 author_profile: true
 header:

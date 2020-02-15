@@ -1,5 +1,5 @@
 ---
-layout: posts
+#layout: posts
 title: Ciência de Dados
 permalink: /data-science/
 author_profile: true
