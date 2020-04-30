@@ -15,7 +15,7 @@ Quem trabalha com computação científica, normalmente deseja alta performance 
 
 <p style='text-align: justify;'> 
 
-Agora, imagine se existisse uma linguagem que consegue entregar essas duas características que parecem tão antagônicas: produtidade e performance. Sim, essa linguagem existe, e o nome dela é <a href="https://julialang.org/com.br/">Julia</a>
+Agora, imagine se existisse uma linguagem que consegue entregar essas duas características que parecem tão antagônicas: produtidade e performance. Sim, essa linguagem existe, e o nome dela é <a href="https://julialang.org/" target="_blank"> Julia </a>
 
 [Julia](https://julialang.org/){:target="_blank"}.</p>
 
