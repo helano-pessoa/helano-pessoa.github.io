@@ -9,10 +9,8 @@ permalink: /posts/conhecendo-julia/
 #header:
 #  teaser: "/images/home.png
 ---
-<div style="text-align: justify"> your-text-here 
+<div style="text-align: justify"> 
 
 Quem trabalha com computação científica, normalmente deseja alta performance da linguagem de programação no desenvolvimento de suas aplicações. No entanto, pesquisadores tem migrado para linguagens que oferecem mais dinâmica e produtividade, embora sejam consideradas menos performáticas.
 
-Agora, imagine se existisse uma linguagem que consegue entregar essas duas características que parecem tão antagônicas: produtidade e performance. Sim, essa linguagem existe, e o nome dela é [Julia](https://julialang.org/){:target="_blank"}.
-
- </div>
+Agora, imagine se existisse uma linguagem que consegue entregar essas duas características que parecem tão antagônicas: produtidade e performance. Sim, essa linguagem existe, e o nome dela é [Julia](https://julialang.org/){:target="_blank"}.</div>
