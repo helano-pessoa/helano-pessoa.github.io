@@ -1,8 +1,8 @@
 ---
-layout: pages
+layout: posts
 title: "Conhecendo Julia"
 date: 2020-04-29
-permalink: /posts/conhecendo_julia/
+permalink: /pages/conhecendo_julia/
 tags: [Julia]
 comments: true
 excerpt: "Julia"
