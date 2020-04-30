@@ -3,7 +3,7 @@
 title: "CV"
 permalink: /cv/
 author_profile: true
-header:
+#header:
     #image: "/assets/images/blue.jpg"
 ---
 

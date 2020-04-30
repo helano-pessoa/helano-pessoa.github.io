@@ -3,7 +3,7 @@
 title: "Sobre mim"
 permalink: /about/
 author_profile: true
-header:
+#header:
     #image: "/assets/images/blue.jpg"
 ---
 
