@@ -2,7 +2,7 @@
 layout: post
 title: "Conhecendo Julia"
 date: 2020-04-29
-permalink: /cv/conhecendo_julia/
+permalink: /posts/conhecendo_julia/
 tags: [Julia]
 comments: true
 excerpt: "Julia"
