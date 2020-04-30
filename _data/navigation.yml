@@ -1,8 +1,4 @@
 main:
-  - title: "Ciência de Dados"
-    url: /data-science/
-  - title: "Otimização"
-    url: /operations-research/
   - title: "CV"
     url: /cv/
   - title: "Sobre mim"
