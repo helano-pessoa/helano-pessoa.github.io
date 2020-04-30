@@ -10,6 +10,8 @@ permalink: /posts/conhecendo-julia/
 #  teaser: "/images/home.png
 ---
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/julia.png){: .align-center}
+
 <p style='text-align: justify;'> 
 
 Quem trabalha com computação científica, normalmente deseja alta performance da linguagem de programação no desenvolvimento de suas aplicações. No entanto, pesquisadores tem migrado para linguagens que oferecem mais dinâmica e produtividade, embora sejam consideradas menos performáticas.</p>
@@ -17,3 +19,42 @@ Quem trabalha com computação científica, normalmente deseja alta performance 
 <p style='text-align: justify;'> 
 
 Agora, imagine se existisse uma linguagem que consegue entregar essas duas características que parecem tão antagônicas: produtidade e performance. Sim, essa linguagem existe, e o nome dela é <a href="https://julialang.org/" target="_blank">Julia</a></p>
+
+Podemos escolher baixar o Julia Pro na versão LTS (v1.4.1-1) ou a versão estável mais recente (v1.0.5-2). Neste tutorial e para postagens futuras, irei utilizar a versão LTS 1.0.5-2.
+
+<a href="https://juliacomputing.com/products/juliapro" target="_blank">JuliaPro</a>
+
+ - **Passo 1:** baixe o <a href="https://juliacomputing.com/products/juliapro" target="_blank">JuliaPro</a>
+ 
+   - *OBS: você deve entrar com login e senha em uma conta de sua preferência*
+
+ - **Passo 2:** abra um terminal do linux e digite os seguintes comandos para instalar pre-requisitos.
+ ```
+ $ sudo apt-get -y install xclip
+ $ sudo apt-get -y install libgconf-2-4
+ ```
+ 
+
+
+ - **Passo 3:** abra o terminal do linux na pasta onde está o arquivo e digite o seguinte comando:
+  ```
+  $ sudo chmod +x JuliaPro-X.X.X-X_build-XX.sh
+  ```
+ 
+
+
+Após realizar o download
+
+No momento desta postagem, a versão estável mais recente do Julia Pro é *JuliaPro-1.4.1-1*.
+```
+$ sudo chmod +x JuliaPro-X.X.X-X_build-94.sh
+```
+
+```
+$ ./JuliaPro-X.X.X-X_build-94.sh /../
+```
+
+
+```julia
+print("Hello, World!")
+```
