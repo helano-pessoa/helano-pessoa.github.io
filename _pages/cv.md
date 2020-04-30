@@ -18,6 +18,7 @@ Vivência no Movimento Empresa Júnior desenvolvendo habilidades de liderança, 
 
 ### Experiências
 
+- Pesquisador, Insight Lab - UFC, (2020 - atual)
 - Bolsista (Extensão), OT - UFC, (2018 - 2019, 1 ano e 4 meses)
 - Estagiário de Inteligência de Negócios, Nordeste Distribuidora, (2017, 3 meses)
 - Estagiário de Recursos Humanos, Correios, (2013 - 2014, 1 ano e 4 meses)

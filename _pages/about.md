@@ -9,4 +9,4 @@ header:
 
 * Estou me preparando para ser um cientista de dados.
 
-* Atualmente trabalho como voluntário no [OPL](http://www.opl.ufc.br/pt/){:target="_blank"} e também como pesquisador no [Insight Data Science Lab](https://insightlab.ufc.br/){:target="_blank"}.
+* Atualmente trabalho como voluntário no [OPL](http://www.opl.ufc.br/pt/){:target="_blank"} e também como pesquisador no [Insight Lab](https://insightlab.ufc.br/){:target="_blank"}.
