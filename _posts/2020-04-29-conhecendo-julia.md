@@ -2,7 +2,7 @@
 layout: posts
 title: "Conhecendo Julia"
 date: 2020-04-29
-permalink: /pages/abaout/conhecendo_julia/
+permalink: /pages/about/conhecendo_julia/
 tags: [Julia]
 comments: true
 excerpt: "Julia"
