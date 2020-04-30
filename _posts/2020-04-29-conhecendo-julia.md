@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Conhecendo Julia"
 date: 2020-04-29
 permalink: /posts/conhecendo_julia/
