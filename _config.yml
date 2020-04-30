@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Portifolio"
+title                    : "Sola Notitia"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Helano Pessoa"
-description              : "Portifólio"
+description              : "Sola Notitia"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
