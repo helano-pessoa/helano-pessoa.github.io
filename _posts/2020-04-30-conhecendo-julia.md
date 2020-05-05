@@ -3,9 +3,9 @@ layout: single
 title: "Conhecendo Julia"
 date: 2020-04-30
 permalink: /posts/conhecendo-julia/
-#tags: [Julia]
+tags: [Julia]
 #comments: true
-#excerpt: "Julia"
+excerpt: "Julia"
 #header:
 #  teaser: "/images/home.png
 ---
@@ -18,7 +18,7 @@ Quem trabalha com computação científica, normalmente deseja alta performance 
 
 <p style='text-align: justify;'> 
 
-Agora, imagine se existisse uma linguagem que consegue entregar essas duas características que parecem tão antagônicas: produtidade e performance. Sim, essa linguagem existe, e o nome dela é <a href="https://julialang.org/" target="_blank">Julia</a></p>
+Agora, imagine se existisse uma linguagem que consegue entregar essas duas características que parecem tão antagônicas: produtidade e performance. Sim, essa linguagem existe, e o nome dela é <a href="https://julialang.org/" target="_blank">Julia</a>.</p>
 
 ```
 "Walks like Python. Runs like C"
