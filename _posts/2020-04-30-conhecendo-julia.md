@@ -4,7 +4,7 @@ title: "Conhecendo Julia"
 date: 2020-04-30
 permalink: /posts/conhecendo-julia/
 tags: [Julia]
-#comments: true
+comments: true
 excerpt: "Julia"
 #header:
 #  teaser: "/images/home.png
