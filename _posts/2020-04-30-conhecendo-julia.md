@@ -54,7 +54,6 @@ $ sudo apt-get -y install libgconf-2-4
  <juliapro>./Launch_JuliaPro
  ```
 
-
  ```julia
  print("Hello, World!")
  ```
