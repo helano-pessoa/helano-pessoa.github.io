@@ -28,17 +28,15 @@ Princesinha da Ciência de Dados
 
 Podemos escolher baixar o JuliaPro na versão LTS ou a versão estável mais recente. Neste tutorial e para postagens futuras, irei utilizar a versão estável mais recente (*v1.4.1-1 no momento em que escrevo*).
 
-
-
 - **Passo 1:** baixe o <a href="https://juliacomputing.com/products/juliapro" target="_blank">JuliaPro</a>
   - *OBS: você deve entrar com login e senha em uma conta de sua preferência*
 
 - **Passo 2:** abra um terminal do linux e digite os seguintes comandos para instalar pre-requisitos.
 
- ```
- $ sudo apt-get -y install xclip
- $ sudo apt-get -y install libgconf-2-4
- ```
+```
+$ sudo apt-get -y install xclip
+$ sudo apt-get -y install libgconf-2-4
+```
 
 - **Passo 3:** abra o terminal do linux na pasta onde está o arquivo e digite o seguinte comando:
 
