@@ -63,7 +63,7 @@ $ Do you want to configure your JuliaPro to work with your private JuliaTeam pac
  - **Passo 6:** vá para a pasta onde JuliaPro está e execute o seguinte comando:
 
 ```
-./Launch_JuliaPro
+$ ./Launch_JuliaPro
 ```
 
  - **Passo 7:** e finalmente podemos executar nosso primeiro código em Julia :)
