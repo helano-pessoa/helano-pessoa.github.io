@@ -66,6 +66,8 @@ $ Do you want to configure your JuliaPro to work with your private JuliaTeam pac
 ./Launch_JuliaPro
 ```
 
+ - **Passo 7:** e finalmente podemos executar nosso primeiro código em Julia :)
+
 ```julia
 print("Hello, World!")
 ```
